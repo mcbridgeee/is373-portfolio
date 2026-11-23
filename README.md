@@ -20,3 +20,7 @@ To run them locally:
 npx html-validate index.html
 python3 scripts/check_links.py
 ```
+
+## Help received
+
+Claude helped me build the page and set up CI and hosting. The content comes from my existing portfolio and my career research; I chose the direction, the content and the featured projects.
